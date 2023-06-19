@@ -9,7 +9,7 @@ public class Cross {
                     System.out.print("8");
 
                 else
-                    System.out.print(" ");
+                 
                 System.out.print(" ");
 
             }
